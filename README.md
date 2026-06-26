@@ -175,11 +175,8 @@ python main.py
 
 ---
 
-# 🎥 Demo Video
-
-```text
-Upload your demo video here
-```
+## 🎥 Demo Video
+https://user-images.githubusercontent.com/.../demo.mp4
 
 Example:
 
